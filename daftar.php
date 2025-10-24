@@ -49,7 +49,7 @@
                 border-bottom: 1px solid #ddd;
             }
             th{
-                background-color: #f8f9fa;
+                background-color: #f2f5f7ff;
                 font-weight: bold;
                 color: #333;
                 width: 30%;
