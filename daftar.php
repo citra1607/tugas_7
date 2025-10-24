@@ -30,7 +30,7 @@
 </head>
 <body>
 <div class="container">
-    <h1>Data Registrasi User</h1>
+    <h1>Data Registrasi Pengguna</h1>
 
 <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['submit'])) {
